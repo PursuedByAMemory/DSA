@@ -1,4 +1,5 @@
-public class BST {
+public class
+BST {
     public Node root;
     class Node{
         Node right;
